@@ -191,10 +191,7 @@ flex-direction: column;
 }
 
 @media screen and (max-width: 650px){
-  .cover{
-   
-  
-  }
+ 
 }
 
 @media screen and (max-width: 650px){
@@ -230,15 +227,11 @@ flex-direction: column;
   }
 .container__vector img{
   width: 110%;
-
     height: 100%;
-   
     display: flex;
     justify-content: center;
     float: right;
-   
 }
-
 }
 
 @media screen and (max-width: 650px){
